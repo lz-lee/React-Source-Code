@@ -10,3 +10,5 @@ React源码阅读笔记
 #### 4、[reactScheduler异步任务调度](https://github.com/lz-lee/React-Source-Code/issues/4)
 
 #### 5、[performSyncWork和performAsyncWork](https://github.com/lz-lee/React-Source-Code/issues/5)
+
+#### 6、[renderRoot](https://github.com/lz-lee/React-Source-Code/issues/6)
