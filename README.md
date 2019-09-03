@@ -14,4 +14,4 @@ React源码阅读笔记
 #### 6、[renderRoot](https://github.com/lz-lee/React-Source-Code/issues/6)
 - [FunctionComponent 更新](https://github.com/lz-lee/React-Source-Code/issues/7)
 - [ClassComponent 更新](https://github.com/lz-lee/React-Source-Code/issues/8)
-- [IndeterminateComponent 更新](https://github.com/lz-lee/React-Source-Code/issues/9)
+- [IndeterminateComponent、HostComponent、HostText 更新](https://github.com/lz-lee/React-Source-Code/issues/9)
