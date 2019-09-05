@@ -15,3 +15,4 @@ React源码阅读笔记
 - [FunctionComponent 更新](https://github.com/lz-lee/React-Source-Code/issues/7)
 - [ClassComponent 更新](https://github.com/lz-lee/React-Source-Code/issues/8)
 - [IndeterminateComponent、HostComponent、HostText 更新](https://github.com/lz-lee/React-Source-Code/issues/9)
+- [portalComponent、ForwardRef、Mode 更新](https://github.com/lz-lee/React-Source-Code/issues/10)
