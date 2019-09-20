@@ -16,3 +16,4 @@ React源码阅读笔记
 - [ClassComponent 更新](https://github.com/lz-lee/React-Source-Code/issues/8)
 - [IndeterminateComponent、HostComponent、HostText 更新](https://github.com/lz-lee/React-Source-Code/issues/9)
 - [portalComponent、ForwardRef、Mode 更新](https://github.com/lz-lee/React-Source-Code/issues/10)
+- [completeUnitOfWork](https://github.com/lz-lee/React-Source-Code/issues/11)
