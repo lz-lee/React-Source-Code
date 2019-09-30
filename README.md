@@ -17,3 +17,5 @@ React源码阅读笔记
 - [IndeterminateComponent、HostComponent、HostText 更新](https://github.com/lz-lee/React-Source-Code/issues/9)
 - [portalComponent、ForwardRef、Mode 更新](https://github.com/lz-lee/React-Source-Code/issues/10)
 - [completeUnitOfWork](https://github.com/lz-lee/React-Source-Code/issues/11)
+
+#### 7、[commitRoot](https://github.com/lz-lee/React-Source-Code/issues/12)
