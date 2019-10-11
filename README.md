@@ -19,3 +19,5 @@ React源码阅读笔记
 - [completeUnitOfWork](https://github.com/lz-lee/React-Source-Code/issues/11)
 
 #### 7、[commitRoot](https://github.com/lz-lee/React-Source-Code/issues/12)
+
+#### 8、[LegacyContext](https://github.com/lz-lee/React-Source-Code/issues/13)
