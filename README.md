@@ -1,5 +1,5 @@
 # React-Source-Code
-React源码阅读笔记
+React源码阅读笔记，基于 16.6.0 版本，hooks 系列基于 16.6.1 版本
 
 #### 1、[创建更新](https://github.com/lz-lee/React-Source-Code/issues/1)
 
